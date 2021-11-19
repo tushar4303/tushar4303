@@ -3,7 +3,7 @@
 <p align="center">&nbsp;Don Bosco Institute Of Technology :man_technologist:</p>
 <h2 align="center"><a id="About_me_6">
 <p align="center"> <a>:earth_americas: I’m from Mumbai-India </a>
-<p> <br> <a>:🧑‍💻: Lorem Ipsum </a><br> <p>
+<p> <br> <a>🧑‍💻 Lorem Ipsum </a><br> <p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tushar4303&color=blueviolet" alt="watching_count" />
 </p>
