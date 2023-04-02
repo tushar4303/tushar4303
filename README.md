@@ -19,9 +19,6 @@ Feel free to reach out to me via [📨](mailto:padhytushar4303@gmail.com) if you
 
 [![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar4303&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📚 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar4303&layout=compact&hide_progress=true&theme=transparent&hide=css,html)](https://github.com/tushar4303/github-readme-stats)
 
 Thank you for visiting my GitHub profile!
 
