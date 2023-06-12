@@ -1,10 +1,14 @@
 # Hi there, I'm Tushar 👋 
 
-I'm a software developer based in Mumbai. I'm passionate about programming and design and love to watch documentaries(just to sound geeky, lol). In my free time, I .... ok i couldn't think of anything. 
+I'm a Mumbai-based software developer fueled by equal parts caffeine and curiosity. When I'm not delving into the depths of programming and design, you'll probably find me watching documentaries.
+
+Oh, and fun fact: I've been known to keep one eye on AI advancements, just in case our future robot overlords start learning JavaScript... and I'm scared they might judge my coding style.  
+
+Let's create some awe-inspiring software together, before the machines rise!"
 
 ## 🔭 Current Work
 
-I'm currently working on a project for automated assessments using machine learning and nlp.
+I'm currently working on a project for automated interviews using LLMs.
 
 ## 🌱 Skills
 
